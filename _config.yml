@@ -23,9 +23,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Fachbereich e-ID"
 description              : "Documentation of the technical architecture, components, and implementations for swiyu - the Swiss e-ID Trust Infrastructure"
-url                      : "https://swiyu-admin-ch.github.io"
+url                      : "selinare.github.io/swiyu-admin-ch.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "selinare.github.io/swiyu-admin-ch"
+repository               : "https://github.com/selinare/swiyu-admin-ch.github.io"
 teaser                   : "/assets/images/swiyu_logo_name.jpeg"
 logo                     : "/assets/images/swiyu_logo_88_88.jpg"
 masthead_title           : swiyu
