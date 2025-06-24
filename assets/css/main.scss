@@ -1,0 +1,11 @@
+@media (min-width: 80em) {
+  .page {
+    width: calc(100% - 20px);
+  }
+}
+
+@media (min-width: 64em) {
+  .page {
+    width: calc(100% - 10px);
+  }
+}
