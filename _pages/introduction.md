@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Introduction
 permalink: /introduction/
 toc: true
