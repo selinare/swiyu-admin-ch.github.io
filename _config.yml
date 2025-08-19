@@ -313,4 +313,20 @@ defaults:
       share: false  
       sidebar:
         nav: "specifications_sidebarmenu"
+
+
+minimal_mistakes_skin: default
+sass:
+  style: compressed
+
+# Custom CSS
+plugins:
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      classes: wide
       
