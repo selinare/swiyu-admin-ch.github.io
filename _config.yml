@@ -329,4 +329,8 @@ defaults:
       type: pages
     values:
       classes: wide
+
+<script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>
+
+      
       
