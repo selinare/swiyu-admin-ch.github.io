@@ -1,0 +1,13 @@
+/* TOC nach rechts */
+.toc {
+  float: right;
+  margin-left: 2rem;
+  margin-right: 0;
+  max-width: 250px;
+}
+
+/* Content soll links Platz machen */
+.page__content {
+  max-width: calc(100% - 270px);
+  float: left;
+}
